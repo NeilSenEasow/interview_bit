@@ -1,6 +1,6 @@
 import java.util.TreeSet;
 
-public class Solution {
+public class Max_sum_triplet {
     public int solve(int[] A) {
         int n = A.length;
         if (n < 3) return 0;
